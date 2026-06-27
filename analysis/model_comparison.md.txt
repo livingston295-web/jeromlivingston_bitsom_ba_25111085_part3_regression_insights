@@ -1,0 +1,44 @@
+# Model Comparison
+
+## Model 1: Marketing Spend vs Monthly Sales
+
+* Dependent Variable: Monthly Sales
+* Independent Variable: Marketing Spend
+* R-Squared: (Enter your value from Excel)
+* Interpretation: Marketing spend shows a positive relationship with monthly sales and helps explain part of the sales variation.
+
+---
+
+## Model 2: Footfall vs Monthly Sales
+
+* Dependent Variable: Monthly Sales
+* Independent Variable: Footfall
+* R-Squared: (Enter your value from Excel)
+* Interpretation: Stores with higher customer footfall generally achieve higher monthly sales.
+
+---
+
+## Model 3: Multiple Regression
+
+* Dependent Variable: Monthly Sales
+
+* Independent Variables:
+
+  * Marketing Spend
+  * Footfall
+  * Inventory Availability
+  * Mall Dummy
+
+* R-Squared: (Enter your value from Excel)
+
+### Comparison
+
+The multiple regression model performs better because it considers several business factors together instead of only one variable.
+
+### Business Usefulness
+
+The multiple regression model provides stronger support for business decision-making since it explains monthly sales using multiple predictors.
+
+### Limitations
+
+The model identifies associations between variables but does not prove cause-and-effect relationships. Other business factors not included in the dataset may also influence sales.
